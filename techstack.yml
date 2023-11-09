@@ -1,0 +1,18 @@
+repo_name: biroka/Python-programming-exercises
+report_id: baa3eaa2f5e4fa195d5c1ab1a42f2277
+repo_type: Public
+timestamp: '2023-11-09T15:25:46+00:00'
+requested_by: zhiwehu
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
